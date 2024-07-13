@@ -138,6 +138,7 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: E:/c++(blackjack)/src/de
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/nested_exception.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/ostream.tcc \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/ostream_insert.h \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/parse_numbers.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/postypes.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/predefined_ops.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/ptr_traits.h \
@@ -172,6 +173,7 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: E:/c++(blackjack)/src/de
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/vector.tcc \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cctype \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cerrno \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/chrono \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/clocale \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cmath \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cstddef \
@@ -218,6 +220,7 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: E:/c++(blackjack)/src/de
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/numeric \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ostream \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/random \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ratio \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/stdexcept \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/streambuf \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/string \
@@ -539,6 +542,8 @@ C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/memoryfwd.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/ostream.tcc:
 
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/parse_numbers.h:
+
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/postypes.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/predefined_ops.h:
@@ -594,6 +599,8 @@ C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/uniform_int_dist.h:
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/uses_allocator.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cctype:
+
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/chrono:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/clocale:
 
@@ -674,6 +681,8 @@ C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/new:
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ostream:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/random:
+
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ratio:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/stdexcept:
 

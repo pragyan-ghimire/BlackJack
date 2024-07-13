@@ -222,4 +222,7 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\opt_random.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\random.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\numeric \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_numeric.h
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_numeric.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\chrono \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ratio \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\parse_numbers.h

@@ -6,7 +6,7 @@
 #include <algorithm>
 #include <utility>
 #include <stdexcept>
-
+#include <chrono>
 class Deck
 {
 private:
@@ -24,18 +24,21 @@ private:
     }
 
     void shuffleDeck()
-    {
-        // Use a random number generator to shuffle the coordinates
-        std::random_device rd; // Seed generator
-        std::mt19937 g(rd());  // Random number generator
+    { 
+        // Use a combination of random_device and system clock to seed the generator
+        std::random_device rd;
+        auto seed = rd() ^ std::chrono::system_clock::now().time_since_epoch().count();
+        std::mt19937 g(seed);
 
         std::shuffle(coordinates.begin(), coordinates.end(), g);
     }
 
 public:
+    // int numberOfCards = coordinates.size();
     Deck()
     {
         storeCard();
+        shuffleDeck();
         shuffleDeck();
     }
 
@@ -45,6 +48,7 @@ public:
         {
             std::pair<int, int> lastCard = coordinates.back();
             coordinates.pop_back();
+            // std::cout<<"Number of cards left:"<<coordinates.size()<<std::endl;
             return lastCard;
         }
         else
@@ -53,8 +57,8 @@ public:
         }
     }
 
-    std::pair<int, int> getCard()
-    {
-        return drawCard();
-    }
+    // std::pair<int, int> getCard()
+    // {
+    //     return drawCard();
+    // }
 };
