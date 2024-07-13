@@ -212,4 +212,39 @@ CMakeFiles/CMakeSFMLProject.dir/src/main.cpp.obj: \
  E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Glsl.inl \
  E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
  E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
+ E:\c++(blackjack)\src\Game.h E:\c++(blackjack)\src\Card.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/InputSoundFile.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/Listener.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/Music.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundStream.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundSource.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/AlResource.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/OutputSoundFile.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/Sound.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundBuffer.hpp \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\set \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_set.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_multiset.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundBufferRecorder.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundRecorder.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.inl \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/Ftp.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/TcpSocket.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/Socket.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/SocketHandle.hpp \
+ c:\mingw\include\basetsd.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/Http.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/IpAddress.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/Packet.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/SocketSelector.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/TcpListener.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/UdpSocket.hpp

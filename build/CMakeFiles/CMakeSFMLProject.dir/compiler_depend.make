@@ -78,13 +78,17 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: E:/c++(blackjack)/src/de
   _deps/sfml-src/include/SFML/Window/WindowBase.hpp \
   _deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
   _deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
+  E:/c++(blackjack)/src/background.h \
   E:/c++(blackjack)/src/button.h \
+  E:/c++(blackjack)/src/card.h \
+  E:/c++(blackjack)/src/deck.h \
   C:/MinGW/include/_mingw.h \
   C:/MinGW/include/ctype.h \
   C:/MinGW/include/direct.h \
   C:/MinGW/include/errno.h \
   C:/MinGW/include/io.h \
   C:/MinGW/include/locale.h \
+  C:/MinGW/include/math.h \
   C:/MinGW/include/msvcrtver.h \
   C:/MinGW/include/process.h \
   C:/MinGW/include/sdkddkver.h \
@@ -137,6 +141,8 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: E:/c++(blackjack)/src/de
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/postypes.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/predefined_ops.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/ptr_traits.h \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/random.h \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/random.tcc \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/range_access.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_algo.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_algobase.h \
@@ -149,6 +155,7 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: E:/c++(blackjack)/src/de
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_iterator_base_types.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_map.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_multimap.h \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_numeric.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_pair.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_relops.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_tempbuf.h \
@@ -166,6 +173,7 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: E:/c++(blackjack)/src/de
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cctype \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cerrno \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/clocale \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cmath \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cstddef \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cstdint \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cstdio \
@@ -203,10 +211,13 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: E:/c++(blackjack)/src/de
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/gthr-default.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/gthr.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/messages_members.h \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/opt_random.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/os_defines.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/time_members.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/new \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/numeric \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ostream \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/random \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/stdexcept \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/streambuf \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/string \
@@ -253,6 +264,8 @@ _deps/sfml-src/include/SFML/Graphics.hpp:
 _deps/sfml-src/include/SFML/Graphics/CircleShape.hpp:
 
 _deps/sfml-src/include/SFML/System/Vector3.hpp:
+
+E:/c++(blackjack)/src/background.h:
 
 _deps/sfml-src/include/SFML/Graphics/Transform.hpp:
 
@@ -416,6 +429,10 @@ _deps/sfml-src/include/SFML/Window/WindowStyle.hpp:
 
 E:/c++(blackjack)/src/button.h:
 
+E:/c++(blackjack)/src/card.h:
+
+E:/c++(blackjack)/src/deck.h:
+
 C:/MinGW/include/_mingw.h:
 
 C:/MinGW/include/errno.h:
@@ -423,6 +440,8 @@ C:/MinGW/include/errno.h:
 C:/MinGW/include/io.h:
 
 C:/MinGW/include/locale.h:
+
+C:/MinGW/include/math.h:
 
 C:/MinGW/include/msvcrtver.h:
 
@@ -526,6 +545,10 @@ C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/predefined_ops.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/ptr_traits.h:
 
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/random.h:
+
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/random.tcc:
+
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_iterator.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_algobase.h:
@@ -545,6 +568,8 @@ C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_iterator_base_types.h:
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_map.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_multimap.h:
+
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_numeric.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_relops.h:
 
@@ -571,6 +596,10 @@ C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/uses_allocator.h:
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cctype:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/clocale:
+
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/numeric:
+
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cmath:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cstdint:
 
@@ -632,6 +661,8 @@ C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/gthr.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/messages_members.h:
 
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/opt_random.h:
+
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/os_defines.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/tuple:
@@ -641,6 +672,8 @@ C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/time_members.h:
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/new:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ostream:
+
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/random:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/stdexcept:
 

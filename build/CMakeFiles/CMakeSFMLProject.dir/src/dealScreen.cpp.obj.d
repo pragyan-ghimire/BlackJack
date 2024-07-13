@@ -214,4 +214,12 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: \
  E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
  E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
  E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
- E:\c++(blackjack)\src\button.h
+ E:\c++(blackjack)\src\button.h E:\c++(blackjack)\src\background.h \
+ E:\c++(blackjack)\src\card.h E:\c++(blackjack)\src\deck.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\random \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cmath c:\mingw\include\math.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\random.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\opt_random.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\random.tcc \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\numeric \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_numeric.h
