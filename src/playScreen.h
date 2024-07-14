@@ -14,6 +14,9 @@ private:
         {
             text.setText("You lost!");
         }
+        else if(playerScore > 21 && dealersScore > 21){
+            text.setText("You lost!");
+        }
         else if (playerScore == dealersScore)
         {
             text.setText("You lost!");
@@ -37,7 +40,7 @@ public:
         int windowWidth = 800;
         int windowHeight = 600;
 
-        sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "BlackJack Game");
+        sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "BlackJack Game",sf::Style::Titlebar | sf::Style::Close);
 
         Background background(windowWidth, windowHeight);
         Button btnHit("Hit", windowWidth, windowHeight);
@@ -48,7 +51,7 @@ public:
         std::vector<Card> playerCards; // Vector to store drawn playerCards
         std::vector<Card> dealerCards; // Vector to store drawn dealersCards
 
-        //dummy to hide first card
+        // dummy to hide first card
         sf::Texture cardTexture;
         if (!cardTexture.loadFromFile("../images/cardBack.png"))
         {
@@ -145,8 +148,8 @@ public:
                 card.setPosition(300 + playerCards.size() * 80, 450); // Adjust position for each card
                 playerCards.push_back(card);
                 playerScore += card.rank;
-                std::cout << playerScore << std::endl;
-                if (playerScore > 21 || playerScore==21)
+                // std::cout << playerScore << std::endl;
+                if (playerScore > 21 || playerScore == 21)
                 {
                     playerTurn = false;
                     standClicked = true;
@@ -159,7 +162,7 @@ public:
             // else if (removed as else if) replace by if
             if (standClicked)
             {
-                std::cout << "Dealers turn";
+                // std::cout << "Dealers turn";
                 playerTurn = false;
                 while (dealerScore < 17)
                 {
@@ -167,9 +170,9 @@ public:
                     card.setPosition(300 + dealerCards.size() * 80, 100); // Adjust position for each card
                     dealerCards.push_back(card);
                     dealerScore += card.rank;
-                    std::cout << dealerScore << std::endl;
+                    // std::cout << dealerScore << std::endl;
                 }
-                if (dealerScore > 21)
+                if (dealerScore > 21 && playerScore <21)
                 {
                     // std::cout << "Dealer lost";
                     text.setText("You Won!");
@@ -186,19 +189,23 @@ public:
             btnHit.draw(window);
             btnStand.draw(window);
 
-            //display playerCards
+            // display playerCards
             for (auto &card : playerCards)
             {
                 card.draw(window);
             }
 
-            //display dealerCards
-            for (size_t i = 0; i < dealerCards.size(); ++i) {
-                if (i == 0 && hideFirstCard) {
+            // display dealerCards
+            for (size_t i = 0; i < dealerCards.size(); ++i)
+            {
+                if (i == 0 && hideFirstCard)
+                {
                     cardSprite.setTexture(cardTexture);
                     cardSprite.setPosition(300, 100);
                     window.draw(cardSprite);
-                } else {
+                }
+                else
+                {
                     dealerCards[i].draw(window);
                 }
             }

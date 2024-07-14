@@ -31,7 +31,7 @@ public:
         int XIndex = card.first;
         int YIndex = card.second;
         rank = value(XIndex);
-        std::cout << "Card coordinate : " << card.first << ", " << card.second << std::endl;
+        // std::cout << "Card coordinate : " << card.first << ", " << card.second << std::endl;
         cardSprite.setTexture(cardTexture);
         cardSprite.setTextureRect(sf::IntRect(XIndex * 71, YIndex * 96, 71, 96));
     }

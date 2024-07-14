@@ -9,7 +9,7 @@ int main() {
     int windowWidth = 800;
     int windowHeight = 600;
 
-    sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "BlackJack Game");
+    sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "BlackJack Game",sf::Style::Titlebar | sf::Style::Close);
 
     Background background(windowWidth, windowHeight);
     Button button("Deal", windowWidth, windowHeight);
@@ -44,7 +44,7 @@ int main() {
             if (btnBounds.contains(static_cast<sf::Vector2f>(cursorPos))) {
                 window.setMouseCursor(handCursor);
                 if (event.type == sf::Event::MouseButtonPressed && event.mouseButton.button == sf::Mouse::Left) {
-                    std::cout << "clicked" << std::endl;
+                    // std::cout << "clicked" << std::endl;
                     openPlayWindow = true;
                     window.close();
                 }
