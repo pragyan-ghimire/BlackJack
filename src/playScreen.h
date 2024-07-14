@@ -9,7 +9,7 @@
 class PlayScreen
 {
 private:
-    void checkWinner(int playerScore, int dealersScore, Text& text)
+    void checkWinner(int playerScore, int dealersScore, Text &text)
     {
 
         // player losing conditions
@@ -56,6 +56,14 @@ public:
         std::vector<Card> playerCards; // Vector to store drawn playerCards
         std::vector<Card> dealerCards; // Vector to store drawn dealersCards
 
+        //dummy to hide first card
+        sf::Texture cardTexture;
+        if (!cardTexture.loadFromFile("../images/cardBack.png"))
+        {
+            std::cerr << "Couldn't load background.";
+        }
+        sf::Sprite cardSprite;
+
         sf::Cursor defaultCursor;
         if (!defaultCursor.loadFromSystem(sf::Cursor::Arrow))
         {
@@ -92,7 +100,7 @@ public:
         }
         std::cout << "DealerScore" << dealerScore << std::endl;
         bool playerTurn = true;
-
+        bool hideFirstCard = true;
         while (window.isOpen())
         {
             sf::Event event;
@@ -129,6 +137,7 @@ public:
                         {
                             // std::cout << "stand clicked" << std::endl;
                             standClicked = true;
+                            hideFirstCard = false;
                         }
                     }
                 }
@@ -145,15 +154,14 @@ public:
                 playerCards.push_back(card);
                 playerScore += card.rank;
                 std::cout << playerScore << std::endl;
-                if (playerScore > 21)
+                if (playerScore > 21 || playerScore==21)
                 {
                     playerTurn = false;
+                    standClicked = true;
+                    hideFirstCard = false;
                     std::cout << "player lost" << std::endl;
                     // std::cout<<playerTurn;
                     text.setText("You Lost!");
-                }
-                else if(playerScore == 21){
-                    standClicked = true;
                 }
             }
             // else if (removed as else if) replace by if
@@ -190,9 +198,27 @@ public:
             {
                 card.draw(window);
             }
-            for (auto &card : dealerCards)
-            {
-                card.draw(window);
+            // for (auto &card : dealerCards)
+            // {
+            //     if (hideFirstCard)
+            //     {
+            //         cardSprite.setTexture(cardTexture);
+            //         cardSprite.setPosition(300,100);
+            //         cardSprite.setTextureRect(sf::IntRect(0, 0, 71, 96));
+            //         std::cout<<"hide first card";
+            //     }
+            //     card.draw(window);
+            // }
+            // window.draw(cardSprite);
+            for (size_t i = 0; i < dealerCards.size(); ++i) {
+                if (i == 0 && hideFirstCard) {
+                    cardSprite.setTexture(cardTexture);
+                    cardSprite.setPosition(300, 100);
+                    // cardSprite.setTextureRect(sf::IntRect(100, 30, 71, 96));
+                    window.draw(cardSprite);
+                } else {
+                    dealerCards[i].draw(window);
+                }
             }
             text.draw(window);
 
