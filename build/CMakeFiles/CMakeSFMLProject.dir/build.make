@@ -68,29 +68,29 @@ include CMakeFiles/CMakeSFMLProject.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CMakeSFMLProject.dir/flags.make
 
-CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj: CMakeFiles/CMakeSFMLProject.dir/flags.make
-CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj: CMakeFiles/CMakeSFMLProject.dir/includes_CXX.rsp
-CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj: E:/c++(blackjack)/src/playScreen.cpp
-CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj: CMakeFiles/CMakeSFMLProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\c++(blackjack)\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj -MF CMakeFiles\CMakeSFMLProject.dir\src\playScreen.cpp.obj.d -o CMakeFiles\CMakeSFMLProject.dir\src\playScreen.cpp.obj -c E:\c++(blackjack)\src\playScreen.cpp
+CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: CMakeFiles/CMakeSFMLProject.dir/flags.make
+CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: CMakeFiles/CMakeSFMLProject.dir/includes_CXX.rsp
+CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: E:/c++(blackjack)/src/dealScreen.cpp
+CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: CMakeFiles/CMakeSFMLProject.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\c++(blackjack)\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj -MF CMakeFiles\CMakeSFMLProject.dir\src\dealScreen.cpp.obj.d -o CMakeFiles\CMakeSFMLProject.dir\src\dealScreen.cpp.obj -c E:\c++(blackjack)\src\dealScreen.cpp
 
-CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\c++(blackjack)\src\playScreen.cpp > CMakeFiles\CMakeSFMLProject.dir\src\playScreen.cpp.i
+CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\c++(blackjack)\src\dealScreen.cpp > CMakeFiles\CMakeSFMLProject.dir\src\dealScreen.cpp.i
 
-CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\c++(blackjack)\src\playScreen.cpp -o CMakeFiles\CMakeSFMLProject.dir\src\playScreen.cpp.s
+CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\c++(blackjack)\src\dealScreen.cpp -o CMakeFiles\CMakeSFMLProject.dir\src\dealScreen.cpp.s
 
 # Object files for target CMakeSFMLProject
 CMakeSFMLProject_OBJECTS = \
-"CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj"
+"CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj"
 
 # External object files for target CMakeSFMLProject
 CMakeSFMLProject_EXTERNAL_OBJECTS =
 
-bin/CMakeSFMLProject.exe: CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj
+bin/CMakeSFMLProject.exe: CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj
 bin/CMakeSFMLProject.exe: CMakeFiles/CMakeSFMLProject.dir/build.make
 bin/CMakeSFMLProject.exe: _deps/sfml-build/lib/libsfml-graphics-s-d.a
 bin/CMakeSFMLProject.exe: _deps/sfml-build/lib/libsfml-window-s-d.a
