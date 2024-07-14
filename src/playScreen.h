@@ -9,28 +9,23 @@ class PlayScreen
 private:
     void checkWinner(int playerScore, int dealersScore, Text &text)
     {
-
         // player losing conditions
         if (playerScore < 21 && playerScore < dealersScore && dealersScore <= 21)
         {
-            // std::cout << "player lost";
             text.setText("You lost!");
         }
         else if (playerScore == dealersScore)
         {
-            // std::cout << "player lost";
             text.setText("You lost!");
         }
 
         // player winning conditions
         if (playerScore == 21)
         {
-            // std::cout << "player wins";
             text.setText("You won!");
         }
         else if (playerScore < 21 && playerScore > dealersScore && dealersScore <= 21)
         {
-            // std::cout << "player wins";
             text.setText("You won!");
         }
     }
@@ -87,7 +82,7 @@ public:
             playerCards.push_back(card);
             playerScore += card.rank;
         }
-        std::cout << "player score" << playerScore << std::endl;
+        // std::cout << "player score" << playerScore << std::endl;
         for (int i = 0; i < 2; i++)
         {
             card.selectCard();
@@ -95,7 +90,7 @@ public:
             dealerCards.push_back(card);
             dealerScore += card.rank;
         }
-        std::cout << "DealerScore" << dealerScore << std::endl;
+        // std::cout << "DealerScore" << dealerScore << std::endl;
         bool playerTurn = true;
         bool hideFirstCard = true;
         while (window.isOpen())
@@ -191,11 +186,13 @@ public:
             btnHit.draw(window);
             btnStand.draw(window);
 
+            //display playerCards
             for (auto &card : playerCards)
             {
                 card.draw(window);
             }
 
+            //display dealerCards
             for (size_t i = 0; i < dealerCards.size(); ++i) {
                 if (i == 0 && hideFirstCard) {
                     cardSprite.setTexture(cardTexture);

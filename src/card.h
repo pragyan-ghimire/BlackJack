@@ -1,33 +1,7 @@
-// card.h
-#ifndef CARD_H
-#define CARD_H
 
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include "deck.h"
-
-// enum Suit {
-//     HEARTS,
-//     DIAMONDS,
-//     CLUBS,
-//     SPADES
-// };
-
-// enum Rank {
-//     TWO,
-//     THREE,
-//     FOUR,
-//     FIVE,
-//     SIX,
-//     SEVEN,
-//     EIGHT,
-//     NINE,
-//     TEN,
-//     JACK,
-//     QUEEN,
-//     KING,
-//     ACE
-// };
 
 class Card
 {
@@ -46,8 +20,6 @@ private:
 
 public:
     int rank;
-    // Suit suit;
-    // Rank rank;
 
     Card()
     {
@@ -55,7 +27,6 @@ public:
     }
     void selectCard()
     {
-
         std::pair<int, int> card = deck.drawCard();
         int XIndex = card.first;
         int YIndex = card.second;
@@ -91,4 +62,3 @@ public:
     }
 };
 
-#endif

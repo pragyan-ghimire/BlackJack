@@ -34,7 +34,6 @@ private:
     }
 
 public:
-    // int numberOfCards = coordinates.size();
     Deck()
     {
         storeCard();
@@ -56,9 +55,4 @@ public:
             throw std::out_of_range("No more cards to draw.");
         }
     }
-
-    // std::pair<int, int> getCard()
-    // {
-    //     return drawCard();
-    // }
 };
