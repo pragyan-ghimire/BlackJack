@@ -9,7 +9,7 @@ int main() {
     int windowWidth = 800;
     int windowHeight = 600;
 
-    sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "RPG game");
+    sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "BlackJack Game");
 
     Background background(windowWidth, windowHeight);
     Button button("Deal", windowWidth, windowHeight);

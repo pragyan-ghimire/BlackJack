@@ -1,8 +1,6 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 #include <vector>
-// #include "button.h"
-// #include "background.h"
 #include "card.h"
 #include "text.h"
 
@@ -15,24 +13,24 @@ private:
         // player losing conditions
         if (playerScore < 21 && playerScore < dealersScore && dealersScore <= 21)
         {
-            std::cout << "player lost";
+            // std::cout << "player lost";
             text.setText("You lost!");
         }
         else if (playerScore == dealersScore)
         {
-            std::cout << "player lost";
+            // std::cout << "player lost";
             text.setText("You lost!");
         }
 
         // player winning conditions
         if (playerScore == 21)
         {
-            std::cout << "player wins";
+            // std::cout << "player wins";
             text.setText("You won!");
         }
         else if (playerScore < 21 && playerScore > dealersScore && dealersScore <= 21)
         {
-            std::cout << "player wins";
+            // std::cout << "player wins";
             text.setText("You won!");
         }
     }
@@ -44,13 +42,12 @@ public:
         int windowWidth = 800;
         int windowHeight = 600;
 
-        sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "RPG game");
+        sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "BlackJack Game");
 
         Background background(windowWidth, windowHeight);
         Button btnHit("Hit", windowWidth, windowHeight);
         Button btnStand("Stand", windowWidth, windowHeight);
         Text text(windowWidth, windowHeight);
-        // text.setText("");
 
         Card card;
         std::vector<Card> playerCards; // Vector to store drawn playerCards
@@ -159,7 +156,7 @@ public:
                     playerTurn = false;
                     standClicked = true;
                     hideFirstCard = false;
-                    std::cout << "player lost" << std::endl;
+                    // std::cout << "player lost" << std::endl;
                     // std::cout<<playerTurn;
                     text.setText("You Lost!");
                 }
@@ -179,7 +176,7 @@ public:
                 }
                 if (dealerScore > 21)
                 {
-                    std::cout << "Dealer lost";
+                    // std::cout << "Dealer lost";
                     text.setText("You Won!");
                 }
                 else
@@ -198,23 +195,11 @@ public:
             {
                 card.draw(window);
             }
-            // for (auto &card : dealerCards)
-            // {
-            //     if (hideFirstCard)
-            //     {
-            //         cardSprite.setTexture(cardTexture);
-            //         cardSprite.setPosition(300,100);
-            //         cardSprite.setTextureRect(sf::IntRect(0, 0, 71, 96));
-            //         std::cout<<"hide first card";
-            //     }
-            //     card.draw(window);
-            // }
-            // window.draw(cardSprite);
+
             for (size_t i = 0; i < dealerCards.size(); ++i) {
                 if (i == 0 && hideFirstCard) {
                     cardSprite.setTexture(cardTexture);
                     cardSprite.setPosition(300, 100);
-                    // cardSprite.setTextureRect(sf::IntRect(100, 30, 71, 96));
                     window.draw(cardSprite);
                 } else {
                     dealerCards[i].draw(window);
