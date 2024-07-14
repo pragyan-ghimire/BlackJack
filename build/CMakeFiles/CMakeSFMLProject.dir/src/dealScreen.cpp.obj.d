@@ -215,7 +215,8 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: \
  E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
  E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
  E:\c++(blackjack)\src\button.h E:\c++(blackjack)\src\background.h \
- E:\c++(blackjack)\src\card.h E:\c++(blackjack)\src\deck.h \
+ E:\c++(blackjack)\src\playScreen.h E:\c++(blackjack)\src\card.h \
+ E:\c++(blackjack)\src\deck.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\random \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cmath c:\mingw\include\math.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\random.h \
@@ -225,4 +226,5 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_numeric.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\chrono \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ratio \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\parse_numbers.h
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\parse_numbers.h \
+ E:\c++(blackjack)\src\text.h

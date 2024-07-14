@@ -1,9 +1,9 @@
 [
 {
   "directory": "E:/c++(blackjack)/build",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/CMakeSFMLProject.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CMakeSFMLProject.dir\\src\\playScreen.cpp.obj -c E:\\c++(blackjack)\\src\\playScreen.cpp",
-  "file": "E:/c++(blackjack)/src/playScreen.cpp",
-  "output": "CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj"
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/CMakeSFMLProject.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CMakeSFMLProject.dir\\src\\dealScreen.cpp.obj -c E:\\c++(blackjack)\\src\\dealScreen.cpp",
+  "file": "E:/c++(blackjack)/src/dealScreen.cpp",
+  "output": "CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj"
 },
 {
   "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",

@@ -25,7 +25,7 @@ void checkWinner(int playerScore, int dealersScore)
     }
     else if (playerScore < 21 && playerScore > dealersScore && dealersScore <= 21)
     {
-        std::cout << "player lost";
+        std::cout << "player wins";
     }
 }
 
@@ -137,8 +137,11 @@ int main()
             std::cout << playerScore << std::endl;
             if (playerScore > 21)
             {
-                std::cout << "player lost";
+                playerTurn = false;
+                std::cout << "player lost"<<std::endl;
+                // std::cout<<playerTurn;
             }
+
         }
         else if (standClicked)
         {
