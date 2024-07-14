@@ -82,6 +82,8 @@ CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj: E:/c++(blackjack)/src/de
   E:/c++(blackjack)/src/button.h \
   E:/c++(blackjack)/src/card.h \
   E:/c++(blackjack)/src/deck.h \
+  E:/c++(blackjack)/src/playScreen.h \
+  E:/c++(blackjack)/src/text.h \
   C:/MinGW/include/_mingw.h \
   C:/MinGW/include/ctype.h \
   C:/MinGW/include/direct.h \
@@ -435,6 +437,10 @@ E:/c++(blackjack)/src/button.h:
 E:/c++(blackjack)/src/card.h:
 
 E:/c++(blackjack)/src/deck.h:
+
+E:/c++(blackjack)/src/playScreen.h:
+
+E:/c++(blackjack)/src/text.h:
 
 C:/MinGW/include/_mingw.h:
 
