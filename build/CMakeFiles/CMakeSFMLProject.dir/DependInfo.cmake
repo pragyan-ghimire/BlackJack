@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/c++(blackjack)/src/dealScreen.cpp" "CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj" "gcc" "CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj.d"
+  "E:/c++(blackjack)/src/playScreen.cpp" "CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj" "gcc" "CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -271,29 +271,29 @@ sfml-audio/fast:
 	$(MAKE) $(MAKESILENT) -f _deps\sfml-build\src\SFML\Audio\CMakeFiles\sfml-audio.dir\build.make _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/build
 .PHONY : sfml-audio/fast
 
-src/dealScreen.obj: src/dealScreen.cpp.obj
-.PHONY : src/dealScreen.obj
+src/playScreen.obj: src/playScreen.cpp.obj
+.PHONY : src/playScreen.obj
 
 # target to build an object file
-src/dealScreen.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeSFMLProject.dir\build.make CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj
-.PHONY : src/dealScreen.cpp.obj
+src/playScreen.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeSFMLProject.dir\build.make CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.obj
+.PHONY : src/playScreen.cpp.obj
 
-src/dealScreen.i: src/dealScreen.cpp.i
-.PHONY : src/dealScreen.i
+src/playScreen.i: src/playScreen.cpp.i
+.PHONY : src/playScreen.i
 
 # target to preprocess a source file
-src/dealScreen.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeSFMLProject.dir\build.make CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.i
-.PHONY : src/dealScreen.cpp.i
+src/playScreen.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeSFMLProject.dir\build.make CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.i
+.PHONY : src/playScreen.cpp.i
 
-src/dealScreen.s: src/dealScreen.cpp.s
-.PHONY : src/dealScreen.s
+src/playScreen.s: src/playScreen.cpp.s
+.PHONY : src/playScreen.s
 
 # target to generate assembly for a file
-src/dealScreen.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeSFMLProject.dir\build.make CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.s
-.PHONY : src/dealScreen.cpp.s
+src/playScreen.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeSFMLProject.dir\build.make CMakeFiles/CMakeSFMLProject.dir/src/playScreen.cpp.s
+.PHONY : src/playScreen.cpp.s
 
 # Help Target
 help:
@@ -316,9 +316,9 @@ help:
 	@echo ... sfml-network
 	@echo ... sfml-system
 	@echo ... sfml-window
-	@echo ... src/dealScreen.obj
-	@echo ... src/dealScreen.i
-	@echo ... src/dealScreen.s
+	@echo ... src/playScreen.obj
+	@echo ... src/playScreen.i
+	@echo ... src/playScreen.s
 .PHONY : help
 
 

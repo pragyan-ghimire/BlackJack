@@ -25,15 +25,19 @@ public:
         window.draw(btnBgRect);
         window.draw(text);
     }
-    sf::RectangleShape getBtnRect(){
-        return btnBgRect;
-    }
-    void setBtnRect(float x, float y){
-        btnBgRect.setSize(sf::Vector2f(x,y));
+
+    sf::RectangleShape getBtnRect() { return btnBgRect; }
+
+    void setBtnRect(float x, float y) {
+        btnBgRect.setSize(sf::Vector2f(x, y));
         centerText();
         centerButton();
     }
 
+    void setPosition(float x, float y) {
+        btnBgRect.setPosition(x, y);
+        centerText();
+    }
 
 private:
     sf::Color btnBgColor;
@@ -55,29 +59,9 @@ private:
         btnBgRect.setPosition(sf::Vector2f(windowWidth / 2.0f, windowHeight / 2.0f));
     }
 
+
     void setButtonProperties() {
         btnBgRect.setFillColor(btnBgColor);
         btnBgRect.setScale(1.05f, 1.1f);
     }
 };
-
-// int main() {
-//     sf::RenderWindow window(sf::VideoMode(800, 600), "Button Example");
-
-//     Button button("Deal", window.getSize().x, window.getSize().y);
-
-//     while (window.isOpen()) {
-//         sf::Event event;
-//         while (window.pollEvent(event)) {
-//             if (event.type == sf::Event::Closed) {
-//                 window.close();
-//             }
-//         }
-
-//         window.clear();
-//         button.draw(window);
-//         window.display();
-//     }
-
-//     return 0;
-// }

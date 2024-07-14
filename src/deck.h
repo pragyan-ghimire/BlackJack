@@ -48,7 +48,7 @@ public:
         {
             std::pair<int, int> lastCard = coordinates.back();
             coordinates.pop_back();
-            // std::cout<<"Number of cards left:"<<coordinates.size()<<std::endl;
+            std::cout<<"Number of cards left:"<<coordinates.size()<<std::endl;
             return lastCard;
         }
         else

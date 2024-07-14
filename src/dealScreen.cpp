@@ -13,8 +13,6 @@ int main() {
 
     Background background(windowWidth, windowHeight);
     Button button("Deal", windowWidth, windowHeight);
-    Card card;
-    std::vector<Card> cards; // Vector to store drawn cards
 
     sf::Cursor defaultCursor;
     if (!defaultCursor.loadFromSystem(sf::Cursor::Arrow)) {
@@ -50,11 +48,6 @@ int main() {
             }
         }
 
-        if (dealClicked) {
-            card.selectCard();
-            card.setPosition(100 + cards.size() * 80, 100); // Adjust position for each card
-            cards.push_back(card);
-        }
 
         // Clear the window with black color
         window.clear(sf::Color::Black);
@@ -63,9 +56,7 @@ int main() {
         background.draw(window);
         button.draw(window);
         
-        for (auto &card : cards) {
-            card.draw(window);
-        }
+
 
         // End the current frame
         window.display();
