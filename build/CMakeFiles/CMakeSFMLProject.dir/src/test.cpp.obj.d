@@ -1,19 +1,12 @@
 CMakeFiles/CMakeSFMLProject.dir/src/test.cpp.obj: \
- E:\c++(blackjack)\src\test.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Time.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iosfwd \
+ C:\Users\HP\Desktop\BlackJack\src\test.cpp \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\os_defines.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\cpu_defines.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iosfwd \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stringfwd.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\memoryfwd.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\postypes.h \
@@ -105,111 +98,5 @@ CMakeFiles/CMakeSFMLProject.dir/src/test.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_facets.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_ios.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/FileInputStream.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Lock.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/MemoryInputStream.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Mutex.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Sleep.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\algorithm \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\utility \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_relops.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algo.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\algorithmfwd.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_heap.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_tempbuf.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_construct.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uniform_int_dist.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\limits \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\locale \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_facets_nonio.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ctime c:\mingw\include\time.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\time_members.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\messages_members.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\codecvt.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_facets_nonio.tcc \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_conv.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stringfwd.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\allocator.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\codecvt.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\unique_ptr.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\tuple \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\array \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uses_allocator.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.inl \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iterator \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stream_iterator.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Thread.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Thread.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocal.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector3.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector3.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Clipboard.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Event.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Joystick.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Keyboard.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Mouse.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Sensor.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Touch.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\vector \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_uninitialized.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_vector.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_bvector.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\vector.tcc \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cstddef \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/CircleShape.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Shape.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Drawable.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/RenderStates.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Transformable.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/VertexArray.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Color.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/ConvexShape.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Font.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Glyph.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Texture.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Image.hpp \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\map \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_tree.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ext\aligned_buffer.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_map.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_multimap.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/RectangleShape.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/RenderTexture.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/RenderWindow.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Shader.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Glsl.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Glsl.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc

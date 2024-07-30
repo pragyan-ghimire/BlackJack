@@ -1,9 +1,9 @@
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\System\Thread.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Thread.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\System\Thread.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Thread.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cstdlib \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\os_defines.h \
@@ -12,8 +12,8 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj: \
  c:\mingw\include\msvcrtver.h c:\mingw\include\w32api.h \
  c:\mingw\include\sdkddkver.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Thread.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Win32/ThreadImpl.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Thread.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Win32/ThreadImpl.hpp \
  c:\mingw\include\windows.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stdarg.h \
  c:\mingw\include\windef.h c:\mingw\include\winnt.h \

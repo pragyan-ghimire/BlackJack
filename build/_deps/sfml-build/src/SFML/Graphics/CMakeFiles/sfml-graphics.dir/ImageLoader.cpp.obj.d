@@ -1,11 +1,11 @@
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Graphics\ImageLoader.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/ImageLoader.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Graphics\ImageLoader.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/ImageLoader.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\os_defines.h \
@@ -90,8 +90,8 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_vector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_bvector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\vector.tcc \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h \
@@ -111,14 +111,14 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_facets.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_ios.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/stb_image/stb_image.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/stb_image/stb_image.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\stdlib.h \
  c:\mingw\include\string.h c:\mingw\include\strings.h \
  c:\mingw\include\wchar.h c:\mingw\include\limits.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\math.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cmath c:\mingw\include\math.h \
  c:\mingw\include\assert.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/stb_image/stb_image_write.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/stb_image/stb_image_write.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iterator \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \

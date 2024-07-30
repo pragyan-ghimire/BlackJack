@@ -1,6 +1,6 @@
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
  c:\mingw\include\windows.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stdarg.h \
  c:\mingw\include\windef.h c:\mingw\include\w32api.h \

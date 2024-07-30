@@ -1,17 +1,17 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Window\Win32\InputImpl.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Window\Win32\InputImpl.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\vector \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
@@ -53,19 +53,19 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\hash_bytes.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\range_access.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\vector.tcc \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cstddef \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stdint.h \
  c:\mingw\include\stdint.h c:\mingw\include\_mingw.h \
  c:\mingw\include\msvcrtver.h c:\mingw\include\w32api.h \
  c:\mingw\include\sdkddkver.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Time.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/String.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\algorithm \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\utility \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_relops.h \
@@ -142,7 +142,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\tuple \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\array \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uses_allocator.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Utf.inl \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iterator \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
@@ -152,10 +152,10 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stream_iterator.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/InputImpl.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Keyboard.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Mouse.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/String.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/InputImpl.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Keyboard.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Mouse.hpp \
  c:\mingw\include\windows.h c:\mingw\include\windef.h \
  c:\mingw\include\winnt.h c:\mingw\include\winerror.h \
  c:\mingw\include\string.h c:\mingw\include\strings.h \

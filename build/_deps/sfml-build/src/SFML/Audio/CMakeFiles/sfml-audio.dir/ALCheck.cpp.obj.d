@@ -1,11 +1,11 @@
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Audio\ALCheck.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/ALCheck.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/AL/al.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/AL/alc.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Audio\ALCheck.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/ALCheck.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/AL/al.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/AL/alc.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iosfwd \
@@ -103,7 +103,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_facets.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_ios.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocal.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.inl
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/ThreadLocal.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.inl

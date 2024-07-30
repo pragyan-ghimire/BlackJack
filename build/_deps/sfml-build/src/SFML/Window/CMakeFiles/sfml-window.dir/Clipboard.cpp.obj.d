@@ -1,11 +1,11 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Window\Clipboard.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Clipboard.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Window\Clipboard.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Clipboard.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/String.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\algorithm \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\utility \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
@@ -123,7 +123,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\tuple \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\array \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uses_allocator.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Utf.inl \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iterator \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
@@ -133,6 +133,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stream_iterator.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/ClipboardImpl.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/ClipboardImpl.hpp
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/String.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/ClipboardImpl.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/ClipboardImpl.hpp

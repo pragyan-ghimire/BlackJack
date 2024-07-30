@@ -53,7 +53,7 @@ public:
 
         // dummy to hide first card
         sf::Texture cardTexture;
-        if (!cardTexture.loadFromFile("../images/cardBack.png"))
+        if (!cardTexture.loadFromFile("../../images/cardBack.png"))
         {
             std::cerr << "Couldn't load background.";
         }

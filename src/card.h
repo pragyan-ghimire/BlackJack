@@ -12,7 +12,7 @@ private:
 
     void loadCard()
     {
-        if (!cardTexture.loadFromFile("../images/card_sprite_sheet.png"))
+        if (!cardTexture.loadFromFile("../../images/card_sprite_sheet.png"))
         {
             std::cerr << "Couldn't load card sprite sheet";
         }

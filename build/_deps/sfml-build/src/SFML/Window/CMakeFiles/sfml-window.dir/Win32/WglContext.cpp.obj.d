@@ -1,11 +1,11 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Window\Win32\WglContext.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/WindowImpl.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Window\Win32\WglContext.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/WindowImpl.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/String.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\algorithm \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\utility \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
@@ -123,7 +123,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\tuple \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\array \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uses_allocator.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Utf.inl \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iterator \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
@@ -133,14 +133,14 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stream_iterator.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/CursorImpl.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/String.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/CursorImpl.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
  c:\mingw\include\windows.h c:\mingw\include\windef.h \
  c:\mingw\include\winnt.h c:\mingw\include\winerror.h \
  c:\mingw\include\string.h c:\mingw\include\strings.h \
@@ -171,34 +171,34 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp
  c:\mingw\include\objidl.h c:\mingw\include\cguid.h \
  c:\mingw\include\olectlid.h c:\mingw\include\oleauto.h \
  c:\mingw\include\oaidl.h c:\mingw\include\oleidl.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Event.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Joystick.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Keyboard.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Mouse.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Sensor.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector3.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector3.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Time.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/JoystickImpl.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/mingw/dinput.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/mingw/_mingw_dxhelper.h \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/SensorImpl.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/SensorImpl.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Event.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Joystick.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Keyboard.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Mouse.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Sensor.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector3.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector3.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/JoystickImpl.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/mingw/dinput.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/mingw/_mingw_dxhelper.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/SensorImpl.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/SensorImpl.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\vector \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_uninitialized.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_vector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_bvector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\vector.tcc \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cstddef \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\queue \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\deque \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_deque.h \
@@ -209,16 +209,16 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ext\aligned_buffer.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_set.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_multiset.h \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/WglContext.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/GlContext.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/glad/include/glad/wgl.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/glad/include/glad/gl.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocal.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Lock.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Mutex.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/WglContext.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/GlContext.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/glad/include/glad/wgl.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/glad/include/glad/gl.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/ThreadLocal.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Lock.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Mutex.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\sstream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\sstream.tcc

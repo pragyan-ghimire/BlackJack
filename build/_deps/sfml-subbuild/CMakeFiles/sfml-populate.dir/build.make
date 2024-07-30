@@ -43,19 +43,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files (x86)\CMake\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\CMake\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files (x86)\CMake\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\c++(blackjack)\build\_deps\sfml-subbuild
+CMAKE_SOURCE_DIR = C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:\c++(blackjack)\build\_deps\sfml-subbuild
+CMAKE_BINARY_DIR = C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild
 
 # Utility rule file for sfml-populate.
 
@@ -76,60 +76,60 @@ CMakeFiles/sfml-populate-complete: sfml-populate-prefix/src/sfml-populate-stamp/
 CMakeFiles/sfml-populate-complete: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build
 CMakeFiles/sfml-populate-complete: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install
 CMakeFiles/sfml-populate-complete: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=E:\c++(blackjack)\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'sfml-populate'"
-	"C:\Program Files (x86)\CMake\bin\cmake.exe" -E make_directory E:/c++(blackjack)/build/_deps/sfml-subbuild/CMakeFiles
-	"C:\Program Files (x86)\CMake\bin\cmake.exe" -E touch E:/c++(blackjack)/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete
-	"C:\Program Files (x86)\CMake\bin\cmake.exe" -E touch E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'sfml-populate'"
+	"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/CMakeFiles
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done
 
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update:
 .PHONY : sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update
 
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=E:\c++(blackjack)\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'sfml-populate'"
-	cd /d E:\c++(blackjack)\build\_deps\sfml-build && "C:\Program Files (x86)\CMake\bin\cmake.exe" -E echo_append
-	cd /d E:\c++(blackjack)\build\_deps\sfml-build && "C:\Program Files (x86)\CMake\bin\cmake.exe" -E touch E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'sfml-populate'"
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build && "C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build
 
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure: sfml-populate-prefix/tmp/sfml-populate-cfgcmd.txt
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=E:\c++(blackjack)\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'sfml-populate'"
-	cd /d E:\c++(blackjack)\build\_deps\sfml-build && "C:\Program Files (x86)\CMake\bin\cmake.exe" -E echo_append
-	cd /d E:\c++(blackjack)\build\_deps\sfml-build && "C:\Program Files (x86)\CMake\bin\cmake.exe" -E touch E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'sfml-populate'"
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build && "C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure
 
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-gitinfo.txt
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=E:\c++(blackjack)\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'sfml-populate'"
-	cd /d E:\c++(blackjack)\build\_deps && "C:\Program Files (x86)\CMake\bin\cmake.exe" -P E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitclone.cmake
-	cd /d E:\c++(blackjack)\build\_deps && "C:\Program Files (x86)\CMake\bin\cmake.exe" -E touch E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'sfml-populate'"
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps && "C:\Program Files\CMake\bin\cmake.exe" -P C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitclone.cmake
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps && "C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download
 
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=E:\c++(blackjack)\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'sfml-populate'"
-	cd /d E:\c++(blackjack)\build\_deps\sfml-build && "C:\Program Files (x86)\CMake\bin\cmake.exe" -E echo_append
-	cd /d E:\c++(blackjack)\build\_deps\sfml-build && "C:\Program Files (x86)\CMake\bin\cmake.exe" -E touch E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'sfml-populate'"
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build && "C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install
 
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir:
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=E:\c++(blackjack)\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'sfml-populate'"
-	"C:\Program Files (x86)\CMake\bin\cmake.exe" -Dcfgdir= -P E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-mkdirs.cmake
-	"C:\Program Files (x86)\CMake\bin\cmake.exe" -E touch E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'sfml-populate'"
+	"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir= -P C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-mkdirs.cmake
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir
 
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch-info.txt
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=E:\c++(blackjack)\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'sfml-populate'"
-	"C:\Program Files (x86)\CMake\bin\cmake.exe" -E echo_append
-	"C:\Program Files (x86)\CMake\bin\cmake.exe" -E touch E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'sfml-populate'"
+	"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch
 
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update:
 .PHONY : sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update
 
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=E:\c++(blackjack)\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'sfml-populate'"
-	cd /d E:\c++(blackjack)\build\_deps\sfml-build && "C:\Program Files (x86)\CMake\bin\cmake.exe" -E echo_append
-	cd /d E:\c++(blackjack)\build\_deps\sfml-build && "C:\Program Files (x86)\CMake\bin\cmake.exe" -E touch E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'sfml-populate'"
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build && "C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test
 
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update: sfml-populate-prefix/tmp/sfml-populate-gitupdate.cmake
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update-info.txt
 sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=E:\c++(blackjack)\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'sfml-populate'"
-	cd /d E:\c++(blackjack)\build\_deps\sfml-src && "C:\Program Files (x86)\CMake\bin\cmake.exe" -Dcan_fetch=YES -P E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitupdate.cmake
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'sfml-populate'"
+	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src && "C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -P C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitupdate.cmake
 
 sfml-populate: CMakeFiles/sfml-populate
 sfml-populate: CMakeFiles/sfml-populate-complete
@@ -153,6 +153,6 @@ CMakeFiles/sfml-populate.dir/clean:
 .PHONY : CMakeFiles/sfml-populate.dir/clean
 
 CMakeFiles/sfml-populate.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\c++(blackjack)\build\_deps\sfml-subbuild E:\c++(blackjack)\build\_deps\sfml-subbuild E:\c++(blackjack)\build\_deps\sfml-subbuild E:\c++(blackjack)\build\_deps\sfml-subbuild E:\c++(blackjack)\build\_deps\sfml-subbuild\CMakeFiles\sfml-populate.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-subbuild\CMakeFiles\sfml-populate.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/sfml-populate.dir/depend
 

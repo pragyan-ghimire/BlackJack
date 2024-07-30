@@ -8,7 +8,7 @@ public:
     Text(int windowWidth, int windowHeight)
         : windowWidth(windowWidth), windowHeight(windowHeight)
     {
-        if (!font.loadFromFile("../Fonts/arial.ttf"))
+        if (!font.loadFromFile("../../Fonts/arial.ttf"))
         {
             std::cerr << "Couldn't load font Arial." << std::endl;
         }
@@ -46,3 +46,4 @@ private:
         text.setPosition(sf::Vector2f(windowWidth / 2.0f, windowHeight / 2.0f));
     }
 };
+ 

@@ -8,7 +8,7 @@ public:
         : btnBgColor(0x1679ABFF), btnBgRect(sf::Vector2f(120.f, 50.f)), 
           windowWidth(windowWidth), windowHeight(windowHeight) 
     {
-        if (!font.loadFromFile("../Fonts/arial.ttf")) {
+        if (!font.loadFromFile("../../Fonts/arial.ttf")) {
             std::cerr << "Couldn't load font Arial." << std::endl;
         }
         

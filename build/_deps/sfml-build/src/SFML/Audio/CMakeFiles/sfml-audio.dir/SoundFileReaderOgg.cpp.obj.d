@@ -1,9 +1,9 @@
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Audio\SoundFileReaderOgg.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Audio\SoundFileReaderOgg.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\os_defines.h \
@@ -82,14 +82,14 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\functional_hash.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\hash_bytes.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/vorbis/vorbisfile.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/vorbis/codec.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/ogg/ogg.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/ogg/os_types.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/MemoryInputStream.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/vorbis/vorbisfile.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/vorbis/codec.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/ogg/ogg.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/ogg/os_types.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/MemoryInputStream.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h \

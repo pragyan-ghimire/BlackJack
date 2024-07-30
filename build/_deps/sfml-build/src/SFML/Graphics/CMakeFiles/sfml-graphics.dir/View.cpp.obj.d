@@ -1,11 +1,11 @@
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Graphics\View.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Graphics\View.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\algorithm \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\utility \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
@@ -50,6 +50,6 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\memoryfwd.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uniform_int_dist.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\limits \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cmath c:\mingw\include\math.h

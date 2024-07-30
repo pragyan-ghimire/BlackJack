@@ -1,632 +1,650 @@
 [
 {
-  "directory": "E:/c++(blackjack)/build",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/CMakeSFMLProject.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CMakeSFMLProject.dir\\src\\dealScreen.cpp.obj -c E:\\c++(blackjack)\\src\\dealScreen.cpp",
-  "file": "E:/c++(blackjack)/src/dealScreen.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/CMakeSFMLProject.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CMakeSFMLProject.dir\\src\\dealScreen.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\src\\dealScreen.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/src/dealScreen.cpp",
   "output": "CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Clock.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Clock.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Clock.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/CMakeSFMLProject.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CMakeSFMLProject.dir\\src\\Menu.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\src\\Menu.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/src/Menu.cpp",
+  "output": "CMakeFiles/CMakeSFMLProject.dir/src/Menu.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Desktop/BlackJack/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/CMakeSFMLProject.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CMakeSFMLProject.dir\\src\\main.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\src\\main.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/src/main.cpp",
+  "output": "CMakeFiles/CMakeSFMLProject.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Desktop/BlackJack/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/CMakeSFMLProject.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CMakeSFMLProject.dir\\src\\login.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\src\\login.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/src/login.cpp",
+  "output": "CMakeFiles/CMakeSFMLProject.dir/src/login.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Clock.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Clock.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Clock.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Err.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Err.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Err.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Err.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Err.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Err.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Lock.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Lock.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Lock.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Lock.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Lock.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Lock.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Mutex.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Mutex.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Mutex.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Mutex.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Mutex.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Mutex.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Sleep.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Sleep.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Sleep.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Sleep.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Sleep.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Sleep.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\String.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\String.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/String.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\String.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\String.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/String.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Thread.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Thread.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Thread.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Thread.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Thread.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Thread.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\ThreadLocal.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\ThreadLocal.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/ThreadLocal.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\ThreadLocal.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\ThreadLocal.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/ThreadLocal.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Time.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Time.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Time.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Time.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Time.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Time.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\FileInputStream.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\FileInputStream.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/FileInputStream.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\FileInputStream.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\FileInputStream.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/FileInputStream.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\MemoryInputStream.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\MemoryInputStream.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/MemoryInputStream.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\MemoryInputStream.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\MemoryInputStream.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/MemoryInputStream.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Win32\\ClockImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ClockImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Win32/ClockImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Win32\\ClockImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ClockImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Win32/ClockImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Win32\\MutexImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\MutexImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Win32/MutexImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Win32\\MutexImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\MutexImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Win32/MutexImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Win32\\SleepImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\SleepImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Win32/SleepImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Win32\\SleepImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\SleepImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Win32/SleepImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Win32\\ThreadImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ThreadImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Win32/ThreadImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Win32\\ThreadImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ThreadImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Win32/ThreadImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/System",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Win32\\ThreadLocalImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ThreadLocalImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/System/Win32/ThreadLocalImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-system.dir\\Win32\\ThreadLocalImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ThreadLocalImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/System/Win32/ThreadLocalImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadLocalImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Main",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-main.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-main.dir\\MainWin32.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Main\\MainWin32.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Main/MainWin32.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Main",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-main.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-main.dir\\MainWin32.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Main\\MainWin32.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Main/MainWin32.cpp",
   "output": "_deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Clipboard.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Clipboard.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Clipboard.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Clipboard.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Clipboard.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Clipboard.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Context.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Context.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Context.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Context.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Context.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Context.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Cursor.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Cursor.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Cursor.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Cursor.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Cursor.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Cursor.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\GlContext.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\GlContext.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/GlContext.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\GlContext.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\GlContext.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/GlContext.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\GlResource.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\GlResource.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/GlResource.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\GlResource.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\GlResource.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/GlResource.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Joystick.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Joystick.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Joystick.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Joystick.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Joystick.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Joystick.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\JoystickManager.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\JoystickManager.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/JoystickManager.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\JoystickManager.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\JoystickManager.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/JoystickManager.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Keyboard.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Keyboard.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Keyboard.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Keyboard.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Keyboard.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Keyboard.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Mouse.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Mouse.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Mouse.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Mouse.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Mouse.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Mouse.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Touch.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Touch.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Touch.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Touch.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Touch.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Touch.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Sensor.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Sensor.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Sensor.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Sensor.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Sensor.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Sensor.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\SensorManager.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\SensorManager.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/SensorManager.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\SensorManager.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\SensorManager.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/SensorManager.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\VideoMode.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\VideoMode.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/VideoMode.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\VideoMode.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\VideoMode.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/VideoMode.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Vulkan.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Vulkan.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Vulkan.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Vulkan.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Vulkan.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Vulkan.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Window.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Window.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Window.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Window.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Window.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Window.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\WindowBase.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\WindowBase.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/WindowBase.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\WindowBase.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\WindowBase.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/WindowBase.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\WindowImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\WindowImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/WindowImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\WindowImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\WindowImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/WindowImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\CursorImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\CursorImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\CursorImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\CursorImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\ClipboardImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\ClipboardImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/ClipboardImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\ClipboardImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\ClipboardImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/ClipboardImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\InputImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\InputImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/InputImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\InputImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\InputImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/InputImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\JoystickImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\JoystickImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\JoystickImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\JoystickImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\SensorImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\SensorImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/SensorImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\SensorImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\SensorImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/SensorImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\VideoModeImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\VideoModeImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/VideoModeImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\VideoModeImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\VideoModeImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/VideoModeImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\VulkanImplWin32.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\VulkanImplWin32.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/VulkanImplWin32.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\VulkanImplWin32.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\VulkanImplWin32.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/VulkanImplWin32.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\WindowImplWin32.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WindowImplWin32.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/WindowImplWin32.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\WindowImplWin32.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WindowImplWin32.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/WindowImplWin32.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Window",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\WglContext.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/WglContext.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-window.dir\\Win32\\WglContext.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/WglContext.cpp",
   "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Network",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\Ftp.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Network\\Ftp.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network/Ftp.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Network",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\Ftp.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Network\\Ftp.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network/Ftp.cpp",
   "output": "_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Network",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\Http.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Network\\Http.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network/Http.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Network",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\Http.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Network\\Http.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network/Http.cpp",
   "output": "_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Network",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\IpAddress.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Network\\IpAddress.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network/IpAddress.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Network",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\IpAddress.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Network\\IpAddress.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network/IpAddress.cpp",
   "output": "_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Network",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\Packet.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Network\\Packet.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network/Packet.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Network",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\Packet.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Network\\Packet.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network/Packet.cpp",
   "output": "_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Network",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\Socket.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Network\\Socket.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network/Socket.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Network",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\Socket.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Network\\Socket.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network/Socket.cpp",
   "output": "_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Network",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\SocketSelector.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Network\\SocketSelector.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network/SocketSelector.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Network",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\SocketSelector.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Network\\SocketSelector.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network/SocketSelector.cpp",
   "output": "_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Network",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\TcpListener.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Network\\TcpListener.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network/TcpListener.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Network",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\TcpListener.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Network\\TcpListener.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network/TcpListener.cpp",
   "output": "_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Network",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\TcpSocket.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Network\\TcpSocket.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network/TcpSocket.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Network",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\TcpSocket.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Network\\TcpSocket.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network/TcpSocket.cpp",
   "output": "_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Network",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\UdpSocket.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Network\\UdpSocket.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network/UdpSocket.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Network",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\UdpSocket.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Network\\UdpSocket.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network/UdpSocket.cpp",
   "output": "_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Network",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\Win32\\SocketImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Network\\Win32\\SocketImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network/Win32/SocketImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Network",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-network.dir\\Win32\\SocketImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Network\\Win32\\SocketImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network/Win32/SocketImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Win32/SocketImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\BlendMode.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\BlendMode.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/BlendMode.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\BlendMode.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\BlendMode.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/BlendMode.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Color.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Color.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Color.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Color.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Color.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Color.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Font.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Font.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Font.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Font.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Font.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Font.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Glsl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Glsl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Glsl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Glsl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Glsl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Glsl.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\GLCheck.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLCheck.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\GLCheck.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLCheck.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\GLExtensions.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLExtensions.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\GLExtensions.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLExtensions.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Image.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Image.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Image.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Image.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Image.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Image.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -fno-strict-aliasing -o CMakeFiles\\sfml-graphics.dir\\ImageLoader.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\ImageLoader.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -fno-strict-aliasing -o CMakeFiles\\sfml-graphics.dir\\ImageLoader.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\ImageLoader.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderStates.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderStates.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderStates.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderStates.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderTexture.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTexture.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderTexture.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTexture.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderTarget.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTarget.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderTarget.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTarget.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderWindow.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderWindow.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderWindow.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderWindow.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Shader.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Shader.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Shader.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Shader.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Shader.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Shader.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Texture.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Texture.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Texture.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Texture.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Texture.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Texture.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\TextureSaver.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\TextureSaver.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\TextureSaver.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\TextureSaver.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Transform.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Transform.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Transform.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Transform.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Transform.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Transform.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Transformable.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Transformable.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Transformable.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Transformable.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Transformable.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Transformable.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\View.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\View.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/View.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\View.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\View.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/View.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Vertex.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Vertex.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Vertex.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Vertex.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Vertex.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Vertex.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Shape.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Shape.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Shape.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Shape.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Shape.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Shape.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\CircleShape.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\CircleShape.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\CircleShape.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\CircleShape.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RectangleShape.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RectangleShape.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RectangleShape.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RectangleShape.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\ConvexShape.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\ConvexShape.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\ConvexShape.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\ConvexShape.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Sprite.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Sprite.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Sprite.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Sprite.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Sprite.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Sprite.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Text.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Text.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/Text.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\Text.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Text.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/Text.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\VertexArray.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\VertexArray.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\VertexArray.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\VertexArray.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\VertexBuffer.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\VertexBuffer.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\VertexBuffer.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\VertexBuffer.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImpl.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImpl.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImpl.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImpl.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplFBO.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImplFBO.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplFBO.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImplFBO.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Graphics",
-  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplDefault.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImplDefault.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplDefault.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImplDefault.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp",
   "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\ALCheck.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\ALCheck.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/ALCheck.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\ALCheck.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\ALCheck.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/ALCheck.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\AlResource.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\AlResource.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/AlResource.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\AlResource.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\AlResource.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/AlResource.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\AudioDevice.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\AudioDevice.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/AudioDevice.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\AudioDevice.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\AudioDevice.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/AudioDevice.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\Listener.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\Listener.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/Listener.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\Listener.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\Listener.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/Listener.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\Music.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\Music.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/Music.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\Music.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\Music.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/Music.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\Sound.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\Sound.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/Sound.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\Sound.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\Sound.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/Sound.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundBuffer.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundBuffer.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundBuffer.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundBuffer.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundBuffer.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundBuffer.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundBufferRecorder.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundBufferRecorder.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundBufferRecorder.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundBufferRecorder.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundBufferRecorder.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundBufferRecorder.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\InputSoundFile.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\InputSoundFile.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/InputSoundFile.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\InputSoundFile.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\InputSoundFile.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/InputSoundFile.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\OutputSoundFile.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\OutputSoundFile.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/OutputSoundFile.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\OutputSoundFile.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\OutputSoundFile.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/OutputSoundFile.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundRecorder.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundRecorder.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundRecorder.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundRecorder.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundRecorder.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundRecorder.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundSource.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundSource.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundSource.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundSource.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundSource.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundSource.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundStream.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundStream.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundStream.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundStream.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundStream.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundStream.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileFactory.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileFactory.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileFactory.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileFactory.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileFactory.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileFactory.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderFlac.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderFlac.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderFlac.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderFlac.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderFlac.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderFlac.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderMp3.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderMp3.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderMp3.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderMp3.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderMp3.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderMp3.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderOgg.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderOgg.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderOgg.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderOgg.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderWav.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderWav.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderWav.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderWav.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderWav.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderWav.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterFlac.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileWriterFlac.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterFlac.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileWriterFlac.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterOgg.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileWriterOgg.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterOgg.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterOgg.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileWriterOgg.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterOgg.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.obj"
 },
 {
-  "directory": "E:/c++(blackjack)/build/_deps/sfml-build/src/SFML/Audio",
-  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterWav.cpp.obj -c E:\\c++(blackjack)\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileWriterWav.cpp",
-  "file": "E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterWav.cpp",
+  "directory": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterWav.cpp.obj -c C:\\Users\\HP\\Desktop\\BlackJack\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileWriterWav.cpp",
+  "file": "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterWav.cpp",
   "output": "_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.obj"
 }
 ]

@@ -1,4 +1,4 @@
-# Install script for directory: E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Network
+# Install script for directory: C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Network
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,6 +38,6 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "devel" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "E:/c++(blackjack)/build/_deps/sfml-build/lib/libsfml-network-s-d.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build/lib/libsfml-network-s-d.a")
 endif()
 

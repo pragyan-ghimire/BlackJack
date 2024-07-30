@@ -6,7 +6,7 @@ public:
     Background(float windowWidth, float windowHeight)
     {
 
-        if (!tBackground.loadFromFile("../images/casino_background.jpg"))
+        if (!tBackground.loadFromFile("../../images/casino_background.jpg"))
         {
             std::cerr << "Couldn't load background.";
         }

@@ -1,9 +1,9 @@
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Audio\SoundFileWriterFlac.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Audio\SoundFileWriterFlac.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\os_defines.h \
@@ -82,19 +82,19 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cp
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\functional_hash.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\hash_bytes.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/stream_encoder.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/export.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/format.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/ordinals.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/stream_decoder.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/stream_encoder.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/export.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/format.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/ordinals.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/stream_decoder.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\vector \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_construct.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_uninitialized.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_vector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_bvector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\vector.tcc \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h \

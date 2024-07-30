@@ -1,58 +1,60 @@
-#include <iostream>
-#include <SFML/Graphics.hpp>
-#include <vector>
-#include "button.h"
-#include "background.h"
-#include "playScreen.h"
+#include "dealScreen.h"
 
-int main() {
-    int windowWidth = 800;
-    int windowHeight = 600;
+void startGame(sf::RenderWindow &window )
 
-    sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "BlackJack Game",sf::Style::Titlebar | sf::Style::Close);
+{
+    int windowWidth = window.getSize().x;
+    int windowHeight = window.getSize().y;
+
+    // sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "BlackJack Game", sf::Style::Titlebar | sf::Style::Close);
 
     Background background(windowWidth, windowHeight);
     Button button("Deal", windowWidth, windowHeight);
 
     PlayScreen playScreen;
 
-
     sf::Cursor defaultCursor;
-    if (!defaultCursor.loadFromSystem(sf::Cursor::Arrow)) {
+    if (!defaultCursor.loadFromSystem(sf::Cursor::Arrow))
+    {
         std::cerr << "Couldn't load system cursor." << std::endl;
-        return -1;
+        return;
     }
 
     sf::Cursor handCursor;
-    if (!handCursor.loadFromSystem(sf::Cursor::Hand)) {
+    if (!handCursor.loadFromSystem(sf::Cursor::Hand))
+    {
         std::cerr << "Couldn't load hand cursor." << std::endl;
-        return -1;
+        return;
     }
     bool openPlayWindow = false;
 
-    while (window.isOpen()) {
+    while (window.isOpen())
+    {
         sf::Event event;
         sf::Vector2i cursorPos = sf::Mouse::getPosition(window);
         sf::FloatRect btnBounds = button.getBtnRect().getGlobalBounds();
-        
-        
 
-        while (window.pollEvent(event)) {
-            if (event.type == sf::Event::Closed) {
+        while (window.pollEvent(event))
+        {
+            if (event.type == sf::Event::Closed)
+            {
                 window.close();
             }
-            if (btnBounds.contains(static_cast<sf::Vector2f>(cursorPos))) {
+            if (btnBounds.contains(static_cast<sf::Vector2f>(cursorPos)))
+            {
                 window.setMouseCursor(handCursor);
-                if (event.type == sf::Event::MouseButtonPressed && event.mouseButton.button == sf::Mouse::Left) {
+                if (event.type == sf::Event::MouseButtonPressed && event.mouseButton.button == sf::Mouse::Left)
+                {
                     // std::cout << "clicked" << std::endl;
                     openPlayWindow = true;
                     window.close();
                 }
-            } else {
+            }
+            else
+            {
                 window.setMouseCursor(defaultCursor);
             }
         }
-
 
         // Clear the window with black color
         window.clear(sf::Color::Black);
@@ -60,15 +62,14 @@ int main() {
         // Draw things here
         background.draw(window);
         button.draw(window);
-        
-
 
         // End the current frame
         window.display();
     }
-    if(openPlayWindow){
+    if (openPlayWindow)
+    {
         playScreen.playWindow();
     }
 
-    return 0;
+    return;
 }

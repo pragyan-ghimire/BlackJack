@@ -1,14 +1,14 @@
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj: \
- E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Audio\Sound.cpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/Sound.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundSource.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/AlResource.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector3.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector3.inl \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Time.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Audio\Sound.cpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/Sound.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/SoundSource.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/AlResource.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector3.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector3.inl \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cstdlib \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\os_defines.h \
@@ -17,7 +17,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj: \
  c:\mingw\include\msvcrtver.h c:\mingw\include\w32api.h \
  c:\mingw\include\sdkddkver.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h \
- E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundBuffer.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/SoundBuffer.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stringfwd.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\memoryfwd.h \
@@ -99,6 +99,6 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ext\aligned_buffer.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_set.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_multiset.h \
- E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/ALCheck.hpp \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/AL/al.h \
- E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/AL/alc.h
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/ALCheck.hpp \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/AL/al.h \
+ C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/AL/alc.h
