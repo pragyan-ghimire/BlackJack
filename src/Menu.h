@@ -7,14 +7,14 @@
 
 class Menu {
 public:
-    Menu(sf::RenderWindow &window);
-    void displayMenu();
+    Menu(sf::RenderWindow &window); //renders the window   
+    void displayMenu();     
 
 private:
-    void drawCenteredText(sf::Text &text, float yPosition);
-    void handleOptionSelection(int index);
-    void showRules(sf::RenderWindow &window);
-    void showDevelopedBy();
+    void drawCenteredText(sf::Text &text, float yPosition); //to position the text at the center of the window
+    void handleOptionSelection(int index);  //handles click event
+    void showRules(sf::RenderWindow &window);  
+    void showDevelopedBy(sf::RenderWindow &window);
 
     sf::RenderWindow &window;
     float windowWidth;

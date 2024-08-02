@@ -3,6 +3,7 @@
 #include <vector>
 #include "card.h"
 #include "text.h"
+#include "menu.h"
 
 class PlayScreen
 {
@@ -14,7 +15,8 @@ private:
         {
             text.setText("You lost!");
         }
-        else if(playerScore > 21 && dealersScore > 21){
+        else if (playerScore > 21 && dealersScore > 21)
+        {
             text.setText("You lost!");
         }
         else if (playerScore == dealersScore)
@@ -34,17 +36,26 @@ private:
     }
 
 public:
+    void playAgain()
+    {
+        playWindow();
+    }
     void playWindow()
     {
 
         int windowWidth = 800;
         int windowHeight = 600;
 
-        sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "BlackJack Game",sf::Style::Titlebar | sf::Style::Close);
+
+        sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "BlackJack Game", sf::Style::Titlebar | sf::Style::Close);
+        Menu menu(window);
 
         Background background(windowWidth, windowHeight);
         Button btnHit("Hit", windowWidth, windowHeight);
         Button btnStand("Stand", windowWidth, windowHeight);
+        Button btnPlayAgain("Play Again", windowWidth, windowHeight);
+        Button btnGoBack("Go Back", windowWidth, windowHeight);
+
         Text text(windowWidth, windowHeight);
 
         Card card;
@@ -74,6 +85,8 @@ public:
         //////////////////////////////position of hit and stand button////////////////////////////////
         btnHit.setPosition(200, 300);
         btnStand.setPosition(600, 300);
+        btnPlayAgain.setPosition(400, 400);
+        btnGoBack.setPosition(80, 30);
 
         int playerScore = 0;
         int dealerScore = 0;
@@ -96,16 +109,21 @@ public:
         // std::cout << "DealerScore" << dealerScore << std::endl;
         bool playerTurn = true;
         bool hideFirstCard = true;
+        bool gameFinished = false;
+
         while (window.isOpen())
         {
             sf::Event event;
             sf::Vector2i cursorPos = sf::Mouse::getPosition(window);
             sf::FloatRect btnHitBounds = btnHit.getBtnRect().getGlobalBounds();
             sf::FloatRect btnStandBounds = btnStand.getBtnRect().getGlobalBounds();
+            sf::FloatRect btnPlayAgainBounds = btnPlayAgain.getBtnRect().getGlobalBounds();
+            sf::FloatRect btnGoBackBounds = btnGoBack.getBtnRect().getGlobalBounds();
 
             // Initializing flags
             bool hitClicked = false;
             bool standClicked = false;
+            bool playagainClicked = false;
 
             while (window.pollEvent(event))
             {
@@ -135,6 +153,15 @@ public:
                             hideFirstCard = false;
                         }
                     }
+                    else if (btnGoBackBounds.contains(static_cast<sf::Vector2f>(cursorPos)))
+                    {
+                        window.setMouseCursor(handCursor);
+                        if (event.type == sf::Event::MouseButtonPressed && event.mouseButton.button == sf::Mouse::Left)
+                        {
+                            // std::cout << "stand clicked" << std::endl;
+                            menu.displayMenu();
+                        }
+                    }
                 }
                 else
                 {
@@ -157,6 +184,7 @@ public:
                     // std::cout << "player lost" << std::endl;
                     // std::cout<<playerTurn;
                     text.setText("You Lost!");
+                    gameFinished = true;
                 }
             }
             // else if (removed as else if) replace by if
@@ -172,13 +200,17 @@ public:
                     dealerScore += card.rank;
                     // std::cout << dealerScore << std::endl;
                 }
-                if (dealerScore > 21 && playerScore <21)
+                if (dealerScore > 21 && playerScore < 21)
                 {
                     // std::cout << "Dealer lost";
                     text.setText("You Won!");
+                    gameFinished = true;
                 }
                 else
+                {
                     checkWinner(playerScore, dealerScore, text);
+                    gameFinished = true;
+                }
             }
 
             // Clear the window with black color
@@ -188,6 +220,29 @@ public:
             background.draw(window);
             btnHit.draw(window);
             btnStand.draw(window);
+            btnGoBack.draw(window);
+
+            if (gameFinished)
+            {
+                window.clear(sf::Color::Black);
+                background.draw(window);
+                btnPlayAgain.draw(window);
+                while (window.pollEvent(event))
+                {
+                    if (btnPlayAgainBounds.contains(static_cast<sf::Vector2f>(cursorPos)))
+                    {
+                        window.setMouseCursor(handCursor);
+                        if (event.type == sf::Event::MouseButtonPressed && event.mouseButton.button == sf::Mouse::Left)
+                        {
+                            // std::cout << "play again clicked" << std::endl;
+                            window.close();
+                            // std::cout<<"mathi"<<std::endl;
+                            playAgain();
+                            // std::cout<<"tala"<<std::endl;
+                        }
+                    }
+                }
+            }
 
             // display playerCards
             for (auto &card : playerCards)

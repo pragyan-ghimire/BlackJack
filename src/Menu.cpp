@@ -4,6 +4,12 @@
 #include <sstream>
 #include "dealScreen.h"
 
+
+/*
+    -> A function that contains the options to be shown in the window
+    -> Sets sprite to the background
+    -> Stores the menu options in a verctor for further use
+*/
 Menu::Menu(sf::RenderWindow &window) : window(window), user("loginData.txt")
 {
     sf::Vector2u windowSize = window.getSize();
@@ -24,13 +30,15 @@ Menu::Menu(sf::RenderWindow &window) : window(window), user("loginData.txt")
         static_cast<float>(window.getSize().y) / backgroundTexture.getSize().y);
 
     std::string menuItems[] = {"Play Game", "Account", "Rules", "Developed By"};
-    for (int i = 0; i < 3; ++i)
+    int numItems = sizeof(menuItems) / sizeof(menuItems[0]);
+    for (int i = 0; i < numItems; ++i)
     {
         sf::Text text(menuItems[i], font, (24 * windowWidth / 800));
         text.setFillColor(sf::Color::White);
         options.push_back(text);
     }
 }
+
 
 void Menu::drawCenteredText(sf::Text &text, float yPosition)
 {
@@ -39,10 +47,15 @@ void Menu::drawCenteredText(sf::Text &text, float yPosition)
     text.setPosition(window.getSize().x / 2, yPosition);
 }
 
+/*
+    -> Displays the options in a menu
+
+*/
 void Menu::displayMenu()
 {
     for (int i = 0; i < options.size(); ++i)
     {
+        // std::cout << options.size();
         drawCenteredText(options[i], 200 + i * 100);
     }
 
@@ -91,7 +104,7 @@ void Menu::handleOptionSelection(int index)
         showRules(window); // Rules
         break;
     case 3:
-        showDevelopedBy(); // Developed By
+        showDevelopedBy(window); // Developed By
         break;
     }
 }
@@ -106,11 +119,11 @@ void Menu::showRules(sf::RenderWindow &window)
     }
 
     std::string rulesText = R"(
-        \t\t\tRules of Blackjack:
+        Rules of Blackjack:
         
         1. Objective:
            The goal is to have a hand value closer to 21 than the dealer without going over 21.
-        sta
+        
         2. Card Values:
            - Cards 2 to 10 are worth their face value.
            - Face cards (Jack, Queen, King) are worth 10 points each.
@@ -255,7 +268,7 @@ void Menu::showRules(sf::RenderWindow &window)
     }
 }
 
-void Menu::showDevelopedBy()
+void Menu::showDevelopedBy(sf::RenderWindow &window)
 {
 
     std::string aboutText = R"(

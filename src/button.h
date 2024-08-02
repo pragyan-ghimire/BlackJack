@@ -59,9 +59,8 @@ private:
         btnBgRect.setPosition(sf::Vector2f(windowWidth / 2.0f, windowHeight / 2.0f));
     }
 
-
     void setButtonProperties() {
         btnBgRect.setFillColor(btnBgColor);
-        btnBgRect.setScale(1.05f, 1.1f);
+        btnBgRect.setScale(1.5f, 1.1f);
     }
 };

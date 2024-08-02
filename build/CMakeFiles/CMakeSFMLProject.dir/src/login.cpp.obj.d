@@ -233,6 +233,7 @@ CMakeFiles/CMakeSFMLProject.dir/src/login.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ratio \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\parse_numbers.h \
  C:\Users\HP\Desktop\BlackJack\src\text.h \
+ C:\Users\HP\Desktop\BlackJack\src\menu.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\fstream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\basic_file.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++io.h \
