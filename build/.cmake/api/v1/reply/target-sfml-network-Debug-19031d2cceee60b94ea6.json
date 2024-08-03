@@ -89,11 +89,11 @@
 			[
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/src"
 				}
 			],
 			"language" : "CXX",

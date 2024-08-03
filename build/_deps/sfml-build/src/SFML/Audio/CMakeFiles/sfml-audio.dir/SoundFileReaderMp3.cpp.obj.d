@@ -1,8 +1,8 @@
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.obj: \
- C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Audio\SoundFileReaderMp3.cpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3_ex.h \
+ E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Audio\SoundFileReaderMp3.cpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3_ex.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stdint.h \
  c:\mingw\include\stdint.h c:\mingw\include\_mingw.h \
  c:\mingw\include\msvcrtver.h c:\mingw\include\w32api.h \
@@ -15,10 +15,10 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp
  c:\mingw\include\stdlib.h c:\mingw\include\string.h \
  c:\mingw\include\strings.h c:\mingw\include\wchar.h \
  c:\mingw\include\limits.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderMp3.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderMp3.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stringfwd.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\memoryfwd.h \
@@ -93,9 +93,9 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_vector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_bvector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\vector.tcc \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h \

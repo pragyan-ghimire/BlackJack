@@ -1,5 +1,5 @@
 CMakeFiles/CMakeSFMLProject.dir/src/test.cpp.obj: \
- C:\Users\HP\Desktop\BlackJack\src\test.cpp \
+ E:\c++(blackjack)\src\test.cpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\os_defines.h \

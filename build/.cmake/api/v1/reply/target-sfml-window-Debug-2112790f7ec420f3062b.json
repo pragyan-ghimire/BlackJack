@@ -122,24 +122,24 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/src"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/vulkan"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/vulkan"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/mingw"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/mingw"
 				},
 				{
 					"backtrace" : 10,
 					"isSystem" : true,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/glad/include"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/glad/include"
 				}
 			],
 			"language" : "CXX",

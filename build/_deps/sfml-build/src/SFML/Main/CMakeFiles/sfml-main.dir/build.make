@@ -43,19 +43,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\CMake\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files (x86)\CMake\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files (x86)\CMake\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\HP\Desktop\BlackJack
+CMAKE_SOURCE_DIR = E:\c++(blackjack)
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\HP\Desktop\BlackJack\build
+CMAKE_BINARY_DIR = E:\c++(blackjack)\build
 
 # Include any dependencies generated for this target.
 include _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/depend.make
@@ -72,16 +72,16 @@ _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/includes_CXX.rsp
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps/sfml-src/src/SFML/Main/MainWin32.cpp
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\Desktop\BlackJack\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
-	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build\src\SFML\Main && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -MD -MT _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj -MF CMakeFiles\sfml-main.dir\MainWin32.cpp.obj.d -o CMakeFiles\sfml-main.dir\MainWin32.cpp.obj -c C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\c++(blackjack)\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
+	cd /d E:\c++(blackjack)\build\_deps\sfml-build\src\SFML\Main && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -MD -MT _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj -MF CMakeFiles\sfml-main.dir\MainWin32.cpp.obj.d -o CMakeFiles\sfml-main.dir\MainWin32.cpp.obj -c E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp
 
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-main.dir/MainWin32.cpp.i"
-	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build\src\SFML\Main && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -E C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp > CMakeFiles\sfml-main.dir\MainWin32.cpp.i
+	cd /d E:\c++(blackjack)\build\_deps\sfml-build\src\SFML\Main && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -E E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp > CMakeFiles\sfml-main.dir\MainWin32.cpp.i
 
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-main.dir/MainWin32.cpp.s"
-	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build\src\SFML\Main && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -S C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp -o CMakeFiles\sfml-main.dir\MainWin32.cpp.s
+	cd /d E:\c++(blackjack)\build\_deps\sfml-build\src\SFML\Main && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -S E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp -o CMakeFiles\sfml-main.dir\MainWin32.cpp.s
 
 # Object files for target sfml-main
 sfml__main_OBJECTS = \
@@ -93,19 +93,19 @@ sfml__main_EXTERNAL_OBJECTS =
 _deps/sfml-build/lib/libsfml-main-d.a: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj
 _deps/sfml-build/lib/libsfml-main-d.a: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/build.make
 _deps/sfml-build/lib/libsfml-main-d.a: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\HP\Desktop\BlackJack\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ..\..\..\lib\libsfml-main-d.a"
-	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build\src\SFML\Main && $(CMAKE_COMMAND) -P CMakeFiles\sfml-main.dir\cmake_clean_target.cmake
-	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build\src\SFML\Main && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\sfml-main.dir\link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\c++(blackjack)\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ..\..\..\lib\libsfml-main-d.a"
+	cd /d E:\c++(blackjack)\build\_deps\sfml-build\src\SFML\Main && $(CMAKE_COMMAND) -P CMakeFiles\sfml-main.dir\cmake_clean_target.cmake
+	cd /d E:\c++(blackjack)\build\_deps\sfml-build\src\SFML\Main && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\sfml-main.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/build: _deps/sfml-build/lib/libsfml-main-d.a
 .PHONY : _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/build
 
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/clean:
-	cd /d C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build\src\SFML\Main && $(CMAKE_COMMAND) -P CMakeFiles\sfml-main.dir\cmake_clean.cmake
+	cd /d E:\c++(blackjack)\build\_deps\sfml-build\src\SFML\Main && $(CMAKE_COMMAND) -P CMakeFiles\sfml-main.dir\cmake_clean.cmake
 .PHONY : _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/clean
 
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\HP\Desktop\BlackJack C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Main C:\Users\HP\Desktop\BlackJack\build C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build\src\SFML\Main C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-build\src\SFML\Main\CMakeFiles\sfml-main.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\c++(blackjack) E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Main E:\c++(blackjack)\build E:\c++(blackjack)\build\_deps\sfml-build\src\SFML\Main E:\c++(blackjack)\build\_deps\sfml-build\src\SFML\Main\CMakeFiles\sfml-main.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/depend
 

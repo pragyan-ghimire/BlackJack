@@ -1,8 +1,8 @@
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.obj: \
- C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Audio\SoundFileFactory.cpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Audio\SoundFileFactory.cpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\os_defines.h \
@@ -87,27 +87,27 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.o
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_vector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_bvector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\vector.tcc \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.inl \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderFlac.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/stream_decoder.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/export.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/format.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/ordinals.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/stream_encoder.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/FLAC/stream_decoder.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderMp3.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3_ex.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/vorbis/vorbisfile.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/vorbis/codec.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/ogg/ogg.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/ogg/os_types.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterOgg.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/vorbis/vorbisenc.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.inl \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderFlac.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/stream_decoder.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/export.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/format.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/ordinals.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/stream_encoder.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/FLAC/stream_decoder.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderMp3.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3_ex.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/vorbis/vorbisfile.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/vorbis/codec.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/ogg/ogg.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/ogg/os_types.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterOgg.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/vorbis/vorbisenc.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\fstream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
@@ -134,11 +134,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.o
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\basic_file.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++io.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\fstream.tcc \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderWav.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterWav.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/FileInputStream.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/MemoryInputStream.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderWav.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterWav.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/FileInputStream.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/MemoryInputStream.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp

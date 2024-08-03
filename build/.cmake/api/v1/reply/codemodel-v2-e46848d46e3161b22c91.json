@@ -205,49 +205,49 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "CMakeSFMLProject::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CMakeSFMLProject-Debug-33b37aa54e52d7b7a4be.json",
+					"jsonFile" : "target-CMakeSFMLProject-Debug-ef715e117e339a3077dd.json",
 					"name" : "CMakeSFMLProject",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 8,
 					"id" : "sfml-audio::@a153e5727587c53fce98",
-					"jsonFile" : "target-sfml-audio-Debug-9bf2b078097ae613d9ce.json",
+					"jsonFile" : "target-sfml-audio-Debug-e8ce476ea284bfa94ccc.json",
 					"name" : "sfml-audio",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 7,
 					"id" : "sfml-graphics::@98af38147d5fa7e70f61",
-					"jsonFile" : "target-sfml-graphics-Debug-ef3f5fd3fdad1a28c47e.json",
+					"jsonFile" : "target-sfml-graphics-Debug-24680a33d4d0f40ec1d7.json",
 					"name" : "sfml-graphics",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "sfml-main::@81ec5539f1398dd625f6",
-					"jsonFile" : "target-sfml-main-Debug-b5dc08d85fe5345682ef.json",
+					"jsonFile" : "target-sfml-main-Debug-4b329a205422ea9b070e.json",
 					"name" : "sfml-main",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 6,
 					"id" : "sfml-network::@d7f79968b2699e7782cb",
-					"jsonFile" : "target-sfml-network-Debug-63d4fe35eb96d382503f.json",
+					"jsonFile" : "target-sfml-network-Debug-19031d2cceee60b94ea6.json",
 					"name" : "sfml-network",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "sfml-system::@8cb1db2982443611e568",
-					"jsonFile" : "target-sfml-system-Debug-8bb0da4c240f1dbad713.json",
+					"jsonFile" : "target-sfml-system-Debug-1ac87f095042935c5a7e.json",
 					"name" : "sfml-system",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 5,
 					"id" : "sfml-window::@5730451e331e3690ae65",
-					"jsonFile" : "target-sfml-window-Debug-cb3047727cae92f33a71.json",
+					"jsonFile" : "target-sfml-window-Debug-2112790f7ec420f3062b.json",
 					"name" : "sfml-window",
 					"projectIndex" : 1
 				}
@@ -257,8 +257,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/HP/Desktop/BlackJack/build",
-		"source" : "C:/Users/HP/Desktop/BlackJack"
+		"build" : "E:/c++(blackjack)/build",
+		"source" : "E:/c++(blackjack)"
 	},
 	"version" : 
 	{

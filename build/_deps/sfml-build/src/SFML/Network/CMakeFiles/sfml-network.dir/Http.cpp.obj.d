@@ -1,11 +1,11 @@
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj: \
- C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Network\Http.cpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Network/Http.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Network/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Network/IpAddress.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Time.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Network\Http.cpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/Http.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/IpAddress.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iosfwd \
@@ -105,11 +105,11 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Network/TcpSocket.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Network/Socket.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Network/SocketHandle.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/TcpSocket.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/Socket.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Network/SocketHandle.hpp \
  c:\mingw\include\basetsd.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\vector \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_construct.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_uninitialized.h \
@@ -126,7 +126,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\array \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uses_allocator.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_multimap.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\algorithm \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algo.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\algorithmfwd.h \

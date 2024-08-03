@@ -1,15 +1,15 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj: \
- C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Window\GlContext.cpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/GlContext.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/ThreadLocal.hpp \
+ E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Window\GlContext.cpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/GlContext.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocal.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cstdlib \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\os_defines.h \
@@ -18,10 +18,10 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj: \
  c:\mingw\include\msvcrtver.h c:\mingw\include\w32api.h \
  c:\mingw\include\sdkddkver.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.inl \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Mutex.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Lock.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.inl \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Mutex.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Lock.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iosfwd \
@@ -111,7 +111,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_facets.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_ios.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/glad/include/glad/gl.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/glad/include/glad/gl.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\algorithm \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\utility \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_relops.h \
@@ -137,8 +137,8 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj: \
  c:\mingw\include\wchar.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cassert \
  c:\mingw\include\assert.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/WglContext.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/glad/include/glad/wgl.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/WglContext.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/glad/include/glad/wgl.h \
  c:\mingw\include\windows.h c:\mingw\include\windef.h \
  c:\mingw\include\winnt.h c:\mingw\include\winerror.h \
  c:\mingw\include\basetsd.h c:\mingw\include\pshpack4.h \

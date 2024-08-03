@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/HP/Desktop/BlackJack/src/Menu.cpp" "CMakeFiles/CMakeSFMLProject.dir/src/Menu.cpp.obj" "gcc" "CMakeFiles/CMakeSFMLProject.dir/src/Menu.cpp.obj.d"
-  "C:/Users/HP/Desktop/BlackJack/src/dealScreen.cpp" "CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj" "gcc" "CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj.d"
-  "C:/Users/HP/Desktop/BlackJack/src/login.cpp" "CMakeFiles/CMakeSFMLProject.dir/src/login.cpp.obj" "gcc" "CMakeFiles/CMakeSFMLProject.dir/src/login.cpp.obj.d"
-  "C:/Users/HP/Desktop/BlackJack/src/main.cpp" "CMakeFiles/CMakeSFMLProject.dir/src/main.cpp.obj" "gcc" "CMakeFiles/CMakeSFMLProject.dir/src/main.cpp.obj.d"
+  "E:/c++(blackjack)/src/Menu.cpp" "CMakeFiles/CMakeSFMLProject.dir/src/Menu.cpp.obj" "gcc" "CMakeFiles/CMakeSFMLProject.dir/src/Menu.cpp.obj.d"
+  "E:/c++(blackjack)/src/dealScreen.cpp" "CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj" "gcc" "CMakeFiles/CMakeSFMLProject.dir/src/dealScreen.cpp.obj.d"
+  "E:/c++(blackjack)/src/login.cpp" "CMakeFiles/CMakeSFMLProject.dir/src/login.cpp.obj" "gcc" "CMakeFiles/CMakeSFMLProject.dir/src/login.cpp.obj.d"
+  "E:/c++(blackjack)/src/main.cpp" "CMakeFiles/CMakeSFMLProject.dir/src/main.cpp.obj" "gcc" "CMakeFiles/CMakeSFMLProject.dir/src/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

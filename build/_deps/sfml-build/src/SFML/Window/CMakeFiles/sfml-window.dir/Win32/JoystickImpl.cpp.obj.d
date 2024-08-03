@@ -1,12 +1,12 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj: \
- C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Window\Win32\JoystickImpl.cpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/JoystickImpl.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Joystick.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/String.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
+ E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Window\Win32\JoystickImpl.cpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/JoystickImpl.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Joystick.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\algorithm \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\utility \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
@@ -124,7 +124,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.c
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\tuple \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\array \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uses_allocator.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Utf.inl \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.inl \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iterator \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
@@ -134,8 +134,8 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.c
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stream_iterator.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/String.inl \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.inl \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.hpp \
  c:\mingw\include\windows.h c:\mingw\include\windef.h \
  c:\mingw\include\winnt.h c:\mingw\include\winerror.h \
  c:\mingw\include\string.h c:\mingw\include\strings.h \
@@ -166,11 +166,11 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.c
  c:\mingw\include\objidl.h c:\mingw\include\cguid.h \
  c:\mingw\include\olectlid.h c:\mingw\include\oleauto.h \
  c:\mingw\include\oaidl.h c:\mingw\include\oleidl.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/mingw/dinput.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/mingw/_mingw_dxhelper.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Time.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/mingw/dinput.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/mingw/_mingw_dxhelper.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
  c:\mingw\include\tchar.h c:\mingw\include\regstr.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cmath c:\mingw\include\math.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cstring \

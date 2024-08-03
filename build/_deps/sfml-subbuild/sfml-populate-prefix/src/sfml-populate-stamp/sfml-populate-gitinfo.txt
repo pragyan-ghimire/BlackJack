@@ -3,9 +3,9 @@
 # No other meaning or use of this file is supported.
 
 method=git
-command=C:/Program Files/CMake/bin/cmake.exe;-P;C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitclone.cmake
-source_dir=C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src
-work_dir=C:/Users/HP/Desktop/BlackJack/build/_deps
+command=C:/Program Files (x86)/CMake/bin/cmake.exe;-P;E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitclone.cmake
+source_dir=E:/c++(blackjack)/build/_deps/sfml-src
+work_dir=E:/c++(blackjack)/build/_deps
 repository=https://github.com/SFML/SFML.git
 remote=origin
 init_submodules=TRUE

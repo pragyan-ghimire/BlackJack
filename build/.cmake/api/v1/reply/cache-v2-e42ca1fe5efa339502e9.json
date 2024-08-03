@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/HP/Desktop/BlackJack/build"
+			"value" : "e:/c++(blackjack)/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -103,7 +103,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "3"
+			"value" : "5"
 		},
 		{
 			"name" : "CMAKE_COLOR_MAKEFILE",
@@ -131,7 +131,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/CMake/bin/cmake.exe"
+			"value" : "C:/Program Files (x86)/CMake/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -143,7 +143,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/CMake/bin/cpack.exe"
+			"value" : "C:/Program Files (x86)/CMake/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -155,7 +155,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/CMake/bin/ctest.exe"
+			"value" : "C:/Program Files (x86)/CMake/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -471,7 +471,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/CMake/bin/cmake-gui.exe"
+			"value" : "C:/Program Files (x86)/CMake/bin/cmake-gui.exe"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -599,7 +599,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/CMakeFiles/pkgRedirects"
+			"value" : "E:/c++(blackjack)/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -671,7 +671,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/HP/Desktop/BlackJack"
+			"value" : "E:/c++(blackjack)"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1323,7 +1323,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/CMake/share/cmake-3.29"
+			"value" : "C:/Program Files (x86)/CMake/share/cmake-3.29"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1575,7 +1575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build"
+			"value" : "E:/c++(blackjack)/build"
 		},
 		{
 			"name" : "CMakeSFMLProject_IS_TOP_LEVEL",
@@ -1599,7 +1599,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/HP/Desktop/BlackJack"
+			"value" : "E:/c++(blackjack)"
 		},
 		{
 			"name" : "CPACK_BINARY_7Z",
@@ -1767,7 +1767,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps"
+			"value" : "E:/c++(blackjack)/build/_deps"
 		},
 		{
 			"name" : "FETCHCONTENT_FULLY_DISCONNECTED",
@@ -1839,7 +1839,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libFLAC.a][C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers][v()]"
+			"value" : "[E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libFLAC.a][E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers][v()]"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_OpenAL",
@@ -1851,7 +1851,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libopenal32.a][C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/AL][v()]"
+			"value" : "[E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libopenal32.a][E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/AL][v()]"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_OpenGL",
@@ -1875,7 +1875,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbisenc.a;C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbisfile.a;C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbis.a;C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libogg.a][C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers][C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers][v()]"
+			"value" : "[E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbisenc.a;E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbisfile.a;E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbis.a;E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libogg.a][E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers][E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers][v()]"
 		},
 		{
 			"name" : "FLAC_INCLUDE_DIR",
@@ -1891,7 +1891,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers"
 		},
 		{
 			"name" : "FLAC_LIBRARY",
@@ -1907,7 +1907,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libFLAC.a"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libFLAC.a"
 		},
 		{
 			"name" : "FREETYPE_INCLUDE_DIR_freetype2",
@@ -1923,7 +1923,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2"
 		},
 		{
 			"name" : "FREETYPE_INCLUDE_DIR_ft2build",
@@ -1939,7 +1939,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2"
 		},
 		{
 			"name" : "FREETYPE_LIBRARY",
@@ -1955,7 +1955,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libfreetype.a"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libfreetype.a"
 		},
 		{
 			"name" : "GIT_EXECUTABLE",
@@ -2035,7 +2035,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers"
 		},
 		{
 			"name" : "OGG_LIBRARY",
@@ -2051,7 +2051,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libogg.a"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libogg.a"
 		},
 		{
 			"name" : "OPENAL_INCLUDE_DIR",
@@ -2067,7 +2067,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/AL"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/AL"
 		},
 		{
 			"name" : "OPENAL_LIBRARY",
@@ -2083,7 +2083,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libopenal32.a"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libopenal32.a"
 		},
 		{
 			"name" : "OPENGL_gl_LIBRARY",
@@ -2118,42 +2118,6 @@
 			"value" : "glu32"
 		},
 		{
-			"name" : "Project_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build"
-		},
-		{
-			"name" : "Project_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Project_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/HP/Desktop/BlackJack"
-		},
-		{
 			"name" : "SFML_BINARY_DIR",
 			"properties" : 
 			[
@@ -2163,7 +2127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-build"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-build"
 		},
 		{
 			"name" : "SFML_BUILD_AUDIO",
@@ -2295,7 +2259,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src"
 		},
 		{
 			"name" : "SFML_USE_STATIC_STD_LIBS",
@@ -2347,7 +2311,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbisenc.a"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbisenc.a"
 		},
 		{
 			"name" : "VORBISFILE_LIBRARY",
@@ -2363,7 +2327,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbisfile.a"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbisfile.a"
 		},
 		{
 			"name" : "VORBIS_INCLUDE_DIR",
@@ -2379,7 +2343,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers"
 		},
 		{
 			"name" : "VORBIS_LIBRARY",
@@ -2395,7 +2359,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbis.a"
+			"value" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/libs-mingw/x86/libvorbis.a"
 		},
 		{
 			"name" : "WARNINGS_AS_ERRORS",

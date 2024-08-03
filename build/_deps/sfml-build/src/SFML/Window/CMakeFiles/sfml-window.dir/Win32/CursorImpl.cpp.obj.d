@@ -1,13 +1,13 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj: \
- C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Window\Win32\CursorImpl.cpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+ E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Window\Win32\CursorImpl.cpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
  c:\mingw\include\windows.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stdarg.h \
  c:\mingw\include\windef.h c:\mingw\include\w32api.h \
@@ -48,7 +48,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp
  c:\mingw\include\cguid.h c:\mingw\include\olectlid.h \
  c:\mingw\include\oleauto.h c:\mingw\include\oaidl.h \
  c:\mingw\include\oleidl.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iosfwd \

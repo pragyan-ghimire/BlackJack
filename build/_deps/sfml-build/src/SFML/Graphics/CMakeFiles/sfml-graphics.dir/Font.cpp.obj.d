@@ -1,12 +1,12 @@
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj: \
- C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Graphics\Font.cpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Font.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Glyph.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+ E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Graphics\Font.cpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Font.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Glyph.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\algorithm \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\utility \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
@@ -51,10 +51,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\memoryfwd.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uniform_int_dist.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\limits \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Texture.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Image.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Color.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Texture.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Image.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Color.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stringfwd.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h \
@@ -104,10 +104,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_vector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_bvector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\vector.tcc \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\map \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_tree.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ext\aligned_buffer.h \
@@ -117,11 +117,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\stdexcept \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uses_allocator.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_multimap.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/glad/include/glad/gl.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/glad/include/glad/gl.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Err.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h \
@@ -140,25 +140,25 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_facets.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_ios.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/ft2build.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/config/ftheader.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/freetype.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/config/ftconfig.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/config/ftoption.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/config/ftstdlib.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/ft2build.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/config/ftheader.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/freetype.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/config/ftconfig.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/config/ftoption.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/config/ftstdlib.h \
  c:\mingw\include\limits.h c:\mingw\include\string.h \
  c:\mingw\include\strings.h c:\mingw\include\wchar.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\stdlib.h \
  c:\mingw\include\setjmp.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/fttypes.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/ftsystem.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/ftimage.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/fterrors.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/ftmoderr.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/fterrdef.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/ftglyph.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/ftoutln.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/ftbitmap.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/freetype2/ftstroke.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/fttypes.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/ftsystem.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/ftimage.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/fterrors.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/ftmoderr.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/fterrdef.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/ftglyph.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/ftoutln.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/ftbitmap.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/freetype2/ftstroke.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cstring \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cmath c:\mingw\include\math.h

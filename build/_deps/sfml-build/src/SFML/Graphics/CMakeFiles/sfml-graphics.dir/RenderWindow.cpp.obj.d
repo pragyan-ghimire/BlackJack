@@ -1,13 +1,13 @@
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj: \
- C:\Users\HP\Desktop\BlackJack\build\_deps\sfml-src\src\SFML\Graphics\RenderWindow.cpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/RenderWindow.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Config.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Color.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+ E:\c++(blackjack)\build\_deps\sfml-src\src\SFML\Graphics\RenderWindow.cpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/RenderWindow.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Config.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Color.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\algorithm \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\utility \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
@@ -52,16 +52,16 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\memoryfwd.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uniform_int_dist.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\limits \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/RenderStates.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Image.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/RenderStates.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Image.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stringfwd.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h \
@@ -111,21 +111,21 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_vector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_bvector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\vector.tcc \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cstddef \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Time.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/String.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\locale \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.tcc \
@@ -155,7 +155,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\tuple \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\array \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uses_allocator.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/Utf.inl \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/Utf.inl \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iterator \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios \
@@ -165,14 +165,14 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stream_iterator.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/System/String.inl \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Graphics/Texture.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/glad/include/glad/gl.h \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.hpp \
- C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/System/String.inl \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Graphics/Texture.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/glad/include/glad/gl.h \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.hpp \
+ E:/c++(blackjack)/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\map \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_tree.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ext\aligned_buffer.h \

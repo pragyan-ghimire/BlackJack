@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
 		},
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule"
 		},
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule"
 		},
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule"
 		},
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule"
 		},
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule"
 		},
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule"
 		},
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule"
 		},
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule"
 		},
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule"
 		},
 		{
-			"file" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule"
+			"file" : "E:/c++(blackjack)/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule"
 		}
 	],
 	"target" : 

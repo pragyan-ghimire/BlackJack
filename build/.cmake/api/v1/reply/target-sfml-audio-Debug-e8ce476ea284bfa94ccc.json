@@ -109,26 +109,26 @@
 			[
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/include"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/src"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/src"
 				},
 				{
 					"backtrace" : 7,
 					"isSystem" : true,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/minimp3"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/minimp3"
 				},
 				{
 					"backtrace" : 8,
 					"isSystem" : true,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers/AL"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers/AL"
 				},
 				{
 					"backtrace" : 4,
 					"isSystem" : true,
-					"path" : "C:/Users/HP/Desktop/BlackJack/build/_deps/sfml-src/extlibs/headers"
+					"path" : "E:/c++(blackjack)/build/_deps/sfml-src/extlibs/headers"
 				}
 			],
 			"language" : "CXX",
